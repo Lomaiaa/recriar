@@ -16,10 +16,10 @@ Temos 4 páginas no site, sendo:
 
 As tecnologias utilizadas foram:
 
-* HTML
-* CSS
-* JavaScript
-* React
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **React**
 
 Para inicializar o projeto é necessário rodar o comando npm run dev no seu terminal de preferência.
 
