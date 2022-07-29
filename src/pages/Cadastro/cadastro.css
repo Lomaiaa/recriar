@@ -1,0 +1,72 @@
+form {
+    max-width: 350px;
+    margin: 30px;
+}
+
+form input {
+    width: 100%;
+    padding: 12px 10px;
+    margin-bottom: 5px;
+    outline: none;
+    box-shadow: none;
+    border: 2px solid #009444;
+    border-radius: 40px;
+}
+
+.caixa-btn {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.caixa-btn button {
+    flex-basis: 48%;
+    padding: 18px 0;
+    border-radius: 40px;
+}
+
+.cadastro-btn {
+    padding: 15px 20px;
+    background: transparent;
+    outline: none;
+    border: 2px solid #009444;
+    border-radius: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 100px;
+    font-size: 16px;
+}
+
+.cadastro-btn{
+    transition: all 0.5s;
+}
+
+.cadastro-btn:hover {
+    color: #B300A4;
+}
+.cadastro-coluna {
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.cadastro-coluna h1 {
+    margin-left: -850px;
+    align-items: center;
+    text-align: center;
+    font-size: 22px;
+}
+
+.cadastro-col-esq {
+    flex-basis: 50%;
+}
+
+.cadastro-col-dir {
+    flex-basis: 50%;
+    margin-top: 70px;
+}
+
+.cadastro-col-dir img {
+    width: 50%;
+    margin-left: 40%;
+    margin-top: -70%;
+}

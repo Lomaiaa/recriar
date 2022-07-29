@@ -1,0 +1,195 @@
+#sobre {
+    height: 100vh;
+}
+
+.container1 {
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: -400px;
+}
+
+.mundo {
+    margin-left: 700px;
+}
+
+.sobre-texto {
+    max-width: 600px;
+    margin-top: 50px;
+}
+
+.sobre-texto h1 {
+    font-size: 34px;
+}
+
+.sobre-texto p {
+    /* line-height: 18px; */
+    font-size: 19px;
+    /* color: #777; */
+    text-align: justify;
+}
+
+.circulo {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    background: #009444;
+    margin: 15px 0;
+}
+
+.linha {
+    line-height: 18px;
+}
+
+.linha-1 {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #009444;
+    display: inline-block;
+}
+
+.linha-2 {
+    width: 400px;
+    height: 2px;
+    background: #009444;
+    display: inline-block;
+}
+
+.linha-3 {
+    width: 280px;
+    height: 2px;
+    background: #009444;
+    display: inline-block;
+}
+
+#problema {
+    padding: 100px 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: -20%;
+}
+
+.problema-col-esq {
+    flex-basis: 50%;
+}
+
+.problema-col-esq img {
+    width: 80%;
+}
+
+.problema-col-dir {
+    flex-basis: 50%;
+    text-align: justify;
+}
+
+.problema-texto {
+    max-width: 700px;
+    margin-right: 100px;
+    display: inline-block;
+}
+
+.problema-texto h1 {
+    font-size: 22px;
+}
+
+.problema-texto h2 {
+    margin: 20px 0 10px;
+    font-size: 22px;
+    font-style: italic;
+    text-align: center;
+}
+
+.problema-texto h3 {
+    font-size: 20px;
+    font-style: italic;
+    color: #787878;
+}
+
+.problema-texto p{
+    font-size: 19px;
+}
+
+#curiosidades {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: -5%;
+    display: inline-block;
+}
+
+.curiosidades-col {
+    flex-basis: 25%;
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+    margin-left: 50px;
+}
+
+.curiosidades-col p{
+    font-size: 16px;
+}
+
+.curiosidades-col img {
+    width: 150px;
+    height: 190px;
+    display: inline-block;
+}
+
+.curiosidades-col h4 {
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 400;
+    display: inline-block;
+    text-align: justify;
+}
+
+.curiosidades-linha .linha {
+    text-align: center;
+}
+
+#descarte {
+    padding: 100px;
+    margin-top: -7%;
+    margin-left: 80px;
+}
+
+.descarte-coluna {
+    display: flex;
+    align-items: center;
+    flex-basis: wrap;
+}
+
+.descarte-col-dir {
+    flex-basis: 50%;
+}
+
+.descarte-col-dir-img {
+    width: 80%;
+    margin-left: 20%;
+}
+
+.descarte-col-esq {
+    flex-basis: 50%;
+}
+
+.descarte-texto {
+    max-width: 500px;
+    text-align: justify;
+}
+
+.descarte-texto p {
+    font-size: 19px;
+}
+
+.descarte-texto h1 {
+    font-size: 22px;
+}
+
+#futuro {
+    padding: 100px 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: -15%;
+}

@@ -1,0 +1,43 @@
+.rodape {
+    background-color: #323534;
+    color: white;
+}
+
+.socials {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.socials:hover {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+.rodape-principal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rodape-principal>* {
+    margin: 16px 0;
+}
+
+.rodape-logo {
+    max-width: 200px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 590px;
+}
+
+.rodape-cc {
+    width: 100%;
+    background-color: #292a2a;
+    font-size: 14px;
+    opacity: 0.5;
+    text-align: center;
+    padding: 10px;
+}

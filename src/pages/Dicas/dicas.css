@@ -1,0 +1,105 @@
+/* #principal{
+    background-color: #B5E48C;
+} */
+
+#dicas {
+    display: flex;
+    align-items: center;
+    text-align: justify;
+}
+
+.sites {
+    color: #009444;
+    font-weight: bolder;
+    transition: all 0.5s;
+}
+
+.sites:hover {
+    color: #B300A4;
+}
+
+.mensagem-inicial-dicas {
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+
+.dicas-col-esq {
+    flex-basis: 50%;
+}
+
+.dicas-col-esq img {
+    width: 80%;
+}
+
+.dicas-col-dir {
+    flex-basis: 50%;
+}
+
+.texto-dicas {
+    max-width: 2500px;
+    margin-right: 50px;
+}
+
+.texto-dicas h2 {
+    margin: 50px 0 10px;
+    font-size: 22px;
+    font-style: italic;
+}
+
+.texto-dicas h3 {
+    font-size: 20px;
+    font-style: italic;
+    color: #787878;
+}
+
+.texto-dicas li {
+    font-size: 18px;
+}
+
+#dicas2 {
+    padding: 100px;
+    margin-top: -5%;
+    margin-left: 80px;
+    text-align: justify;
+}
+
+.dicas-2 {
+    display: flex;
+    align-items: center;
+    flex-basis: wrap;
+}
+
+.dicas2-col-dir {
+    flex-basis: 50%;
+}
+
+.dicas2-col-dir img {
+    width: 80%;
+    margin-left: 20%;
+}
+
+.dicas2-col-esq {
+    flex-basis: 50%;
+}
+
+.texto-dicas2 {
+    max-width: 2500px;
+    margin-left: -90px;
+}
+
+.texto-dicas2 li {
+    font-size: 18px;
+}
+
+.mensagem-dicas {
+    text-align: center;
+    margin-top: 5%;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 22px;
+}
