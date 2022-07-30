@@ -9,7 +9,7 @@ function Dicas() {
                 segundo a Política Nacional de Resíduos Sólidos (PNRS).<br></br> Que tal aprender dicas práticas que prometem deixar o processo de reciclagem bem mais fácil?</h2>
             <section id="dicas">
                 <div className="dicas-col-esq">
-                    <img src="src/assets/Dicas.png" alt="ilustração mostrando anotações em uma folha de papel" />
+                    <img src="https://media.discordapp.net/attachments/835234743108632578/1002731032191184946/Dicas.png?width=563&height=422" alt="ilustração mostrando anotações em uma folha de papel" />
                 </div>
                 <div className="dicas-col-dir">
                     <div className="texto-dicas">
@@ -109,7 +109,7 @@ function Dicas() {
                         </div>
                     </div>
                     <div className="dicas2-col-dir">
-                        <img src="src/assets/Compostagem.png" alt="ilustração relacionada a compostagem" />
+                        <img src="https://media.discordapp.net/attachments/835234743108632578/1002731163548405810/Compostagem.png?width=422&height=422" alt="ilustração relacionada a compostagem" />
                     </div>
                 </div>
                 <h3 className='mensagem-dicas'>Fazer mais pelo planeta gera um ciclo positivo que retorna para você.

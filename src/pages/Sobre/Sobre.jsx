@@ -4,7 +4,7 @@ function Sobre() {
     return (
         <section id="principal">
             <section id="sobre">
-                <img src="src/assets/Mundo.png" alt="mulher sentada com o mundo em mãos" className="mundo" />
+                <img src="https://media.discordapp.net/attachments/835234743108632578/1002732026383847424/Mundo.png?width=563&height=422" alt="mulher sentada com o mundo em mãos" className="mundo" />
                 <div className="container1">
                     <div className="sobre-texto">
                         <p>Um dos principais desafios ambientais da atualidade é, sem dúvidas, a grande quantidade
@@ -25,7 +25,7 @@ function Sobre() {
             </section>
             <section id="problema">
                 <div className="problema-col-esq">
-                    <img src="src/assets/Problema.png" alt="ilustração sobre o problema do incorreto descarte" />
+                    <img src="https://media.discordapp.net/attachments/835234743108632578/1002732321859981332/Problema.png?width=422&height=422" alt="ilustração sobre o problema do incorreto descarte" />
                 </div>
                 <div className="problema-col-dir">
                     <div className="problema-texto">
@@ -48,16 +48,16 @@ function Sobre() {
             </section>
             <section id="curiosidades">
                 <div className="curiosidades-col">
-                    <img src="src/assets/Chuva.png" alt="ilustação de uma planta sendo molhada pela chuva" />
+                    <img src="https://media.discordapp.net/attachments/835234743108632578/1002732497362223114/Chuva.png?width=284&height=422" alt="ilustação de uma planta sendo molhada pela chuva" />
                     <p>A queima de lixo libera até 27 metais pesados e gases.<br></br> Eles contribuem para a
                         formação de chuva ácida.</p>
                 </div>
                 <div className="curiosidades-col">
-                    <img src="src/assets/Muda.png" alt="imagem de uma planta" />
+                    <img src="https://media.discordapp.net/attachments/835234743108632578/1002732865575997483/Muda.png" alt="imagem de uma planta" />
                     <p>Reciclar uma tonelada de papel evita a<br></br> morte de 40 árvores adultas.</p>
                 </div>
                 <div className="curiosidades-col">
-                    <img src="src/assets/Resíduo.png" alt="imagem de uma lata de lixo com um monstro" />
+                    <img src="https://media.discordapp.net/attachments/835234743108632578/1002732999063904346/Residuo.png" alt="imagem de uma lata de lixo com um monstro" />
                     <p>Agbogbloshie é um dos maiores lixões<br></br>eletrônicos do mundo. Localizado na cidade de Accra,<br></br>
                         em Gana, o local é considerado o mais tóxico do planeta.</p>
                 </div>
@@ -89,13 +89,13 @@ function Sobre() {
                         </div>
                     </div>
                     <div className="descarte-col-dir">
-                        <img src="src/assets/Descarte incorreto.png" alt="ilustração mostrando uma garrafa sendo recolhida de um lago" />
+                        <img src="https://media.discordapp.net/attachments/835234743108632578/1002733323950510090/Descarte_incorreto.png?width=422&height=422" alt="ilustração mostrando uma garrafa sendo recolhida de um lago" />
                     </div>
                 </div>
             </section>
             <section id="futuro">
                 <div className="problema-col-esq">
-                    <img src="src/assets/Futuro.png" alt="ilustração sobre o problema do incorreto descarte" />
+                    <img src="https://media.discordapp.net/attachments/835234743108632578/1002733576560840805/Futuro.png?width=422&height=422" alt="ilustração sobre o problema do incorreto descarte" />
                 </div>
                 <div className="problema-col-dir">
                     <div className="problema-texto">

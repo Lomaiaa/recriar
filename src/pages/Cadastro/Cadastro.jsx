@@ -21,7 +21,7 @@ function Cadastro() {
                     </form>
                 </div>
                 <div class="cadastro-col-dir">
-                    <img src="src/assets/Colaboração.png" alt="imagem de uma equipe pesquisando" />
+                    <img src="https://media.discordapp.net/attachments/835234743108632578/1002730848027680889/Colaboracao.png?width=633&height=422" alt="imagem de uma equipe pesquisando" />
                 </div>
             </div>
         </section>
