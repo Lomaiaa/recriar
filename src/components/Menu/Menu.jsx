@@ -9,7 +9,7 @@ function Menu() {
                 <div className='navbar'>
                     <div className="navbar-box">
                         <div className="navbar-logo">
-                            <img className="img-responsive" src="src/assets/Logo1.png" alt="Logotipo RecriAr" />
+                            <img className="img-responsive" src="https://media.discordapp.net/attachments/835234743108632578/1002728224532463626/Logo1.png" alt="Logotipo RecriAr" />
                         </div>
                         <nav>
                             <ul className="menu1">
