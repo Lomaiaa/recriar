@@ -26,7 +26,6 @@
     margin-top: 30px;
 }
 
-
 .dicas-col-esq {
     flex-basis: 50%;
 }
@@ -58,6 +57,7 @@
 
 .texto-dicas li {
     font-size: 18px;
+    list-style-image: url('http://squids.com.br/icons/page_go.png');
 }
 
 #dicas2 {
