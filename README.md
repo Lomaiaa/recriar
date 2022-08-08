@@ -1,4 +1,4 @@
-# O título do projeto é: RecriAr
+#RecriAr
 
 ![Gif folhagens](https://c.tenor.com/mbdpCOfomOwAAAAC/anime-aesthetic.gif)
 
